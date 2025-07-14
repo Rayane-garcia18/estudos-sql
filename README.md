@@ -1,16 +1,32 @@
 # Welcome!
 ## I'm Rayane!
-# estudos-sql
-Repositório criado para armazenar meus primeiros estudos em SQL e Python, como parte do meu plano de carreira em Dados e Segurança da Informação.
-- Consultas básicas (SELECT, WHERE)
-- Joins
-- Agrupamentos (GROUP BY)
-- Criação de tabelas
+# 🗄️ Estudos SQL
 
-👩‍💻 **Objetivo:** consolidar conceitos fundamentais para vagas de Analista de Dados e DBA Jr.
+Repositório criado para armazenar meus estudos de SQL, incluindo:
 
-## 📅 Data de início
-Julho/2025
+✅ Consultas básicas (SELECT, WHERE)  
+✅ Joins  
+✅ Agrupamentos (GROUP BY)  
+✅ Criação de tabelas
+## 🎯 Objetivo
 
-## ✨ Autor
-Rayane Garcia
+Consolidar meus conhecimentos em SQL para atuar futuramente como Analista de Dados, DBA ou Cientista de Dados Jr.
+
+## 💻 Tecnologias
+
+- MySQL
+- SQL Server
+- SQLite
+
+- ## 📈 Progresso
+
+- [x] SELECT básico
+- [ ] WHERE e filtros avançados
+- [ ] GROUP BY e funções de agregação
+- [ ] JOINS simples e múltiplos
+- [ ] Subqueries e views
+
+- [ ] ## ✨ Autor
+
+Rayane Garcia  
+[LinkedIn](link-do-seu-linkedin) | [GitHub](https://github.com/Rayane-garcia18)

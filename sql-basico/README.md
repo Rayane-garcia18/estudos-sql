@@ -1,32 +1,24 @@
-# SQL Básico
+# 📝 SQL Básico
 
-Exercícios de comandos SELECT, WHERE, ORDER BY para fixação.
+Esta pasta contém meus exercícios iniciais de SQL, incluindo:
 
-🎯 A. Exercícios iniciais
+✅ SELECT  
+✅ WHERE  
+✅ ORDER BY  
+✅ GROUP BY  
+✅ JOINS
 
-🔹 01_select_basico.sql
+📅 **Data de início:** Julho/2025
 
-SELECT * FROM [tabela];
+💡 **Objetivo:** consolidar meus estudos em SQL para atuar como Analista de Dados, DBA ou Cientista de Dados Jr.
 
-SELECT coluna1, coluna2 FROM [tabela];
+---
 
-🔹 02_where_filtros.sql
+### ✨ Organização dos arquivos:
 
-SELECT * FROM [tabela] WHERE condição;
-
-Ex.: Clientes com idade > 30
-
-🔹 03_orderby_limit.sql
-
-SELECT * FROM [tabela] ORDER BY coluna ASC/DESC;
-
-SELECT * FROM [tabela] LIMIT 10;
-
-🔹 04_groupby_agregacao.sql
-
-SELECT coluna, COUNT(*) FROM [tabela] GROUP BY coluna;
-
-🔹 05_joins_basico.sql
-
-SELECT * FROM tabela1 JOIN tabela2 ON condição;
+- **01_select_basico.sql** – consultas simples com SELECT
+- **02_where_filtros.sql** – filtros usando WHERE
+- **03_orderby_limit.sql** – ordenação e limitação de resultados
+- **04_groupby_agregacao.sql** – agregações e agrupamentos
+- **05_joins_basico.sql** – junções entre tabelas
 
